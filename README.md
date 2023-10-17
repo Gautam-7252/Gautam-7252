@@ -1,7 +1,7 @@
-![bannerr](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![bannerr](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <!-- Header start -->
 <h1 align="center">Hello 👋, Welcome to my Github Profile </h1>
-<h1 align="center">I'm Gautam Singh</h1>
+<h1 align="center">I'm <a href="">Gautam Singh</a></h1>
 <h3 align="center">Aspiring Developer | Passionate Learner</h3>
 <p align="center"
 <a href="https://www.linkedin.com/in/gautam-singh06" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Gautam-Singh" height="50" width="50" /></a>
@@ -16,7 +16,7 @@
 - ✨ A passionate Entry-level Software Engineer
 - 🚀 I’m interested in Web development, programming and cloud computing 
 - 🌱 I’m currently learning Programming & Web development 
-- 📫 How to reach me **gautam7252@gmail.com**
+- 📫 How to reach me : **gautam7252@gmail.com**
 <!-- GitHub About me section end -->
 
 
@@ -126,7 +126,3 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=gautam-7252&theme=solarized-dark&show_icons=true&locale=en&layout=compact)
 
 ![Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=gautam-7252&theme=solarized-dark&)
-
-
-
-
