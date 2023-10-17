@@ -13,14 +13,20 @@
 
 <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
+ 
 - ✨ A passionate Entry-level Software Engineer
-- 🚀 I’m interested in Web development, programming and cloud computing 
-- 🌱 I’m currently learning Programming & Web development 
+  
+- 🚀 I’m interested in Web development, programming and cloud computing
+  
+- 🌱 I’m currently learning Programming & Web development
+
 - 📫 How to reach me : **gautam7252@gmail.com**
+  
 <!-- GitHub About me section end -->
 
 
 ## 💻Tools and Technologies:
+
 - **Programming Languages**
   
 	<center>
