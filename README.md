@@ -3,9 +3,9 @@
 <h1 align="center">Hello 👋, Welcome to my Github Profile </h1>
 <h1 align="center">I'm <a href="">Gautam Singh</a></h1>
 <h3 align="center">Aspiring Developer | Passionate Learner</h3>
-<p align="center"
-<a href="https://www.linkedin.com/in/gautam-singh06" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Gautam-Singh" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Gautam-Singh" height="50" width="50" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/gautam-singh06/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Gautam-Singh" height="50" width="50" /></a>
+<a href="https://www.facebook.com/gotya.gotya.923/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Gautam-Singh" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Gautam-Singh" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Gautam-Singh" height="40" width="40" /></a>
 </p>
