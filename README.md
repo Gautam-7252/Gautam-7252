@@ -20,8 +20,9 @@
 <!-- GitHub About me section end -->
 
 
-## 🎓Tools and Technologies:
+## 💻Tools and Technologies:
 - **Programming Languages**
+  
 	<center>
 		<table>
 			<tbody>
@@ -43,10 +44,89 @@
 		</table>
 	</center>
 - **Frontend Development**
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+ - **Databases**
+   
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>MySql</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+ - **Cloud Platforms**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>AWS</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Others**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>VS code</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
+					</td>
+     					<td width="25%" align="center">
+						<span><strong>github</strong></span><br/>
+						<img height="64px" width="64px" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+					</td>
+     					<td width="25%" align="center">
+						<span><strong>Arduino</strong></span><br/>
+						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
+     					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+ <!-- GitHub Skills end -->
+<!-- GitHub Activity start -->
+## ⭐My Github stats :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautam-7252&show_icons=true&locale=en&layout=compact" alt="gautam-7252" /></p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=gautam-7252&theme=solarized-dark&show_icons=true&locale=en)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam-7252&show_icons=true&locale=en" alt="gautam-7252" /></p>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=gautam-7252&theme=solarized-dark&show_icons=true&locale=en&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gautam-7252&" alt="gautam-7252" /></p>
+![Github streaks](https://github-readme-streak-stats.herokuapp.com/?user=gautam-7252&theme=solarized-dark&)
+
+
+
+
