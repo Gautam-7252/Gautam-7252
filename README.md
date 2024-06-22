@@ -2,7 +2,7 @@
 <!-- Header start -->
 <h1 align="center">Hello 👋, Welcome to my Github Profile </h1>
 <h1 align="center">I'm <a href="">Gautam Singh</a></h1>
-<h3 align="center">Aspiring Developer | Passionate Learner</h3>
+<h3 align="center">Softare Engineer | Passionate Learner</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/gautam-singh06/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Gautam-Singh" height="50" width="50" /></a>
 <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Gautam-Singh" height="50" width="50" /></a>
@@ -14,11 +14,11 @@
 <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
  
-- ✨ A passionate Entry-level Software Engineer
+- ✨ A passionate Software Engineer
   
-- 🚀 I’m interested in Web development, programming and cloud computing
+- 🚀 I’m interested in Software development, Programming and Cloud computing
   
-- 🌱 I’m currently learning Programming & Web development
+- 🌱 I’m currently Golang in depth.
 
 - 📫 How to reach me : **gautam7252@gmail.com**
   
